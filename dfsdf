@@ -1,9 +1,0 @@
-user.name=caf-3
-user.email=00caf3@gmail.com
-user.emai=00caf3@gmail.com
-core.repositoryformatversion=0
-core.filemode=true
-core.bare=false
-core.logallrefupdates=true
-remote.origin.url=https://github.com/caf-3/nodeJs-emailSender
-remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
